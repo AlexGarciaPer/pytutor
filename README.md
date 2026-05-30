@@ -1,14 +1,13 @@
 # 🐍 PyTutor — Chatbot local de Python
 
-Chatbot local especializado en responder dudas sobre Python.
-Corre completamente en tu PC sin necesidad de internet ni APIs de pago.
+Chatbot local como apoyo offline en responder dudas sobre Python.
 
 ## Tecnologías
 
-- **Ollama** — motor para correr modelos de IA en local
+- **Ollama** — motor
 - **qwen2.5-coder:3b** — modelo especializado en código
-- **Flask** — servidor web en Python
-- **HTML/CSS/JS** — interfaz visual del chat
+- **Flask** — servidor web 
+- **HTML/CSS/JS** — interfaz visual 
 
 ## Estructura del proyecto
 pytutor/
